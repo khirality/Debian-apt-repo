@@ -1,2 +1,2 @@
-# Debian-apt-repo
+# debian-apt-repo
 Debian Apt Repository
